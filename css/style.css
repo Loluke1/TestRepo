@@ -1,0 +1,45 @@
+* {
+	text-decoration:none;
+	color: #eee8d5;
+}
+
+p {
+	background-color: #00151a;
+}
+
+body {
+	margin: 2% 8% 0% 8%;
+	background-color: #586e75;
+}
+
+table {
+	border-collapse: collapse;
+}
+
+table, th, td {
+	border: 1px solid #fdf6e3;
+}
+
+th, td {
+	padding: 8px;
+}
+
+hr {
+	border: 1px solid #fdf6e3;
+}
+
+.bold {
+	font-weight: bold;
+}
+
+.score {
+	text-decoration: line-through; 
+}
+
+a:active{
+	color: #00151a;
+}
+
+a:hover {
+	color: #efefef;
+}
