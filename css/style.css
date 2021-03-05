@@ -28,12 +28,17 @@ hr {
 	border: 1px solid #fdf6e3;
 }
 
+.rightalign {
+	text-align: right;
+	width:auto;
+}
+
 .bold {
 	font-weight: bold;
 }
 
 .score {
-	text-decoration: line-through; 
+	text-decoration: line-through;
 }
 
 a:active{
