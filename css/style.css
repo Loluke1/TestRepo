@@ -28,9 +28,26 @@ hr {
 	border: 1px solid #fdf6e3;
 }
 
+/*
+.circleHead{
+	align: center;
+	background-color: #00151a;
+	border-radius: 50%;
+	width:400px;
+	height:400px;
+}
+.circleText{
+	position:inherit;
+	bottom: 50%;
+	width:100%;
+	text-align: center;
+}
+*/
+
 .rightalign {
-	text-align: right;
-	width:25%;
+	float: right;
+	border-radius: 100%;
+	width:15%;
 }
 
 .bold {
