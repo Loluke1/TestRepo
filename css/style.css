@@ -49,7 +49,7 @@ hr {
 	width:100%;
 }
 
-.navBar tr,.navBar td{
+.navBar table, .navBar td{
 	border:0;
 }
 
