@@ -8,7 +8,7 @@ p {
 }
 
 body {
-	margin: 2% 8% 0% 8%;
+	margin: 2% 18% 0% 18%;
 	background-color: #586e75;
 }
 
@@ -43,6 +43,20 @@ hr {
 	text-align: center;
 }
 */
+.navBar{
+	table-layout:fixed;
+	text-align:center;
+	width:100%;
+}
+
+.navBar tr,.navBar td{
+	border:0;
+}
+
+.navButton:hover{
+	font-weight: bold;
+	color:#fff8d5;
+}
 
 .rightalign {
 	float: right;
