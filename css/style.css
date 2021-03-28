@@ -1,7 +1,10 @@
 * {
-	font-size: 12pt;
 	text-decoration:none;
 	color: #eee8d5;
+}
+
+div{
+		font-size: 1.875em;
 }
 
 p {
